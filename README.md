@@ -9,4 +9,4 @@ Savings Account: In addition of the features a Client with a normal Account can 
  
 ## UML Class Diagram :
 
-<img align="left" alt="UML Diagram" width="800px" src="uml-diagram.jpg" style="padding-right:100px;" />
+<img align="left" alt="UML Diagram" width="1000px" src="uml-diagram.jpg"" />
