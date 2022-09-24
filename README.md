@@ -1,5 +1,6 @@
 # Bank-Record-Management-System
-## System's Introduction :
+Leave a star if you find it useful please :)
+## System's Description :
 Bank Management System is a program that provides processes and features that help a bank to get a single view of all their Client's accounts, along with their information, It allows the user to create an Account for a Client, update an existing Account, search for a specified Account, delete an Account, make a transfer from an Account to another, as well as executing an operation on a existing Account ( update this Account's data, consult this Account, make a deposit, make a withdrawal, make a transfer from this Account to another) .
 
 While creating an Account for a Client, it asks the user for the Account's choice;
