@@ -8,7 +8,8 @@ While creating an Account for a Client, it asks the user for the Account's choic
   Normal Account: A regular checking Account simply let the Client do all the things he'd expect from a checking account: deposit and withdraw money, as well as making transfers. 
   
   Current Account: In addition of the features a Client with a normal Account can have, a current Account is characterized with a negative allowed balance that the user specify while creating the account. The Client can make withdrawals even if his true balance isn't sufficient, in condition that his negative allowed balance plus his balance are greater than the withdrawal or the transfer amount.
-Savings Account: In addition of the features a Client with a normal Account can have, a savings Account is characterized with an interest rate. The Client can benefice from interests while making deposits.
+  
+  Savings Account: In addition of the features a Client with a normal Account can have, a savings Account is characterized with an interest rate. The Client can benefice from interests while making deposits.
  
 ## UML Class Diagram :
 
